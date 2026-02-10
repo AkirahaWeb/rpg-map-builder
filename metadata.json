@@ -1,0 +1,5 @@
+{
+  "name": "RPG World Builder 2D",
+  "description": "A professional 2D tabletop RPG map creator inspired by Inkarnate. Features terrain sculpting, river generation, texture painting, asset management, and text labeling.",
+  "requestFramePermissions": []
+}
